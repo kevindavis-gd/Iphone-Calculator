@@ -1,2 +1,3 @@
 # Iphone-Calculator
-Using HTML, CSS and JavaScript to replicate an Iphone calculator
+
+Purpose: Using html, css and javascript to replicate an iphone calculator
